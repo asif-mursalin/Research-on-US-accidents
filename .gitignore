@@ -1,5 +1,6 @@
 spark-3.5.5-bin-hadoop3/
 spark-3.5.5-bin-hadoop3.tgz
+US_Accidents_March23.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
